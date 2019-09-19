@@ -16,8 +16,8 @@ Então bora por a mão na massa.... e bons estudos.
     <ul>
         <li>Algoritmos</li>
         <ul>
-            <li><a href="https://www.softblue.com.br/site/curso/id/6/CURSO+DE+LOGICA+DE+PROGRAMACAO+BASICO+ON+LINE+LO06+GRATIS">Softblue</a></li>
-            <li><a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV">Curso em vídeo</a></li>
+            <li><a target="_blank" href="https://www.softblue.com.br/site/curso/id/6/CURSO+DE+LOGICA+DE+PROGRAMACAO+BASICO+ON+LINE+LO06+GRATIS">Softblue</a></li>
+            <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV">Curso em vídeo</a></li>
         </ul>
         <li>Exercícios</li>
     </ul>
