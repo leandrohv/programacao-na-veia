@@ -18,6 +18,7 @@ Então bora por a mão na massa.... e bons estudos.
         <ul>
             <li><a target="_blank" href="https://www.softblue.com.br/site/curso/id/6/CURSO+DE+LOGICA+DE+PROGRAMACAO+BASICO+ON+LINE+LO06+GRATIS">Softblue</a></li>
             <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV">Curso em vídeo</a></li>
+            <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLwXQLZ3FdTVG_mqZcOXhfFf3Po6whFv8oc">Node Studio Treinamentos</a></li>
         </ul>
         <li>Exercícios</li>
     </ul>
@@ -26,6 +27,8 @@ Então bora por a mão na massa.... e bons estudos.
         <li>Frontend</li>
         <ul>
             <li>HTML5</li>
+            <li><a target="_blank" href="https://www.softblue.com.br/site/curso/id/6/CURSO+DE+LOGICA+DE+PROGRAMACAO+BASICO+ON+LINE+LO06+GRATIS">Softblue</a></li>
+            <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV">Curso em vídeo</a></li>
             <li>CSS3</li>
             <li>Angular</li>
             <li>Django</li>            
@@ -34,9 +37,24 @@ Então bora por a mão na massa.... e bons estudos.
         </ul>
         <li>Backendend</li>
         <ul>
-            <li>Java</li>
+            <li><a target="_blank" href="https://github.com/leandrohv/programacao-na-veia/tree/master/java">Java</a></li>
             <li>JavaScript</li>
             <li>PHP</li>
+            <ul>
+                <li>Iniciante</li>
+                <ul>
+                    <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLesCEcYj003TrV2MvUOnmVtMdgIp0C4Pd">eXcript</a></li>
+                    <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x">Curso em vídeo</a></li>
+                    <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I">Node Studio Treinamentos</a></li>
+                    <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x">Curso em vídeo</a></li>
+                    <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLVSNL1PHDWvTwSPNOGj_GrXg41W6dgWam">EspecializaTi</a></li>
+                </ul>
+                <li>Intermediário</li>
+                <ul>
+                    <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq">Node Studio Treinamentos</a></li>
+                    <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLbXvLovKLUIkE78UNFE8UpfOtoDlrpQec">Diego Zanlorenzi</a></li>
+                </ul>
+            </ul>
             <li>Python</li>
             <li>Node</li>
         </ul>
