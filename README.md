@@ -26,9 +26,9 @@ Então bora por a mão na massa.... e bons estudos.
         </ul>
         <li>Exercícios</li>
     </ul>
-    <li>Linguagens de Programação</li>
+    <li><h3>Linguagens de Programação</h3></li>
     <ul>
-        <li>Frontend</li>
+        <li><h4>Frontend</h4></li>
         <ul>
             <li>HTML5</li>
             <ul>
@@ -88,12 +88,12 @@ Então bora por a mão na massa.... e bons estudos.
                 <li><a target="_blank" href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a></li>
                 <li><a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS/CSS_Media_queries">Usando Media Queries</a></li>
             </ul>
+            <li>Versionamento</li>
+            <ul>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1">Introdução a Git - Rodrigo Branas</a></li>
+            </ul>
         </ul>
-        <li>Versionamento</li>
-        <ul>
-            <li><a target="_blank" href="https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1">Introdução a Git - Rodrigo Branas</a></li>
-        </ul>
-        <li>Backendend</li>
+        <li><h4>Backendend</h4></li>
         <ul>
             <li><a target="_blank" href="https://github.com/leandrohv/programacao-na-veia/tree/master/java">Java</a></li>
             <li>JavaScript</li>
@@ -138,17 +138,17 @@ Então bora por a mão na massa.... e bons estudos.
             <li>Python</li>
             <li>Node</li>
         </ul>
-        <li>Mobile</li>
-        <ul>
-            <li>Flutter</li>
-            <li>React Native</li>
-        </ul>
+    <li><h4>Mobile</h4></li>
+    <ul>
+        <li>Flutter</li>
+        <li>React Native</li>
+    </ul>
     </ul>
     <li>API</li>
     <ul>
         <li><a target="_blank" href="https://youtu.be/LzPuCVhdUew">API Google Maps - Filipe Deschamps</a></li>
     </ul>
-    <li>Banco de Dados</li>
+    <li><h4>Banco de Dados</h4></li>
     <ul>
         <li>MySQL</li>
         <ul>
