@@ -74,6 +74,21 @@ Então bora por a mão na massa.... e bons estudos.
                     <li><a target="_blank" href="https://css-tricks.com/bem-101/">BEM 101</a></li>
                 </ul>
             </ul>
+            <li>JavaScript</li>
+            <ul>
+                <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1">Curso em Vídeo</a></li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=lcKo-ycLDNw&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC">CFBCursos</a></li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=093dIOCNeIc&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc">Desvendando a linguagem JavaScript - Rodrigo Branas</a></li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=mchmZKNBjLA">Javascript Essential - DOM (Duas partes) - RBtech</a></li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=Q2gMUK8uxjQ&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=80">Criando um jogo de nave com Javascript - CFBCursos</a></li>
+                <li><a target="_blank" href="https://www.youtube.com/watch?v=Mus_vwhTCq0">JavaScript Pro Tips - Fireship</a></li>
+                <li><a target="_blank" href="https://www.udemy.com/course/curso-web/">Curso Web Moderno com JavaScript 2019 COMPLETO + Projetos - Udemy</a></li>
+                <li>JSON</li>
+                <ul>
+                    <li><a target="_blank" href="https://www.youtube.com/watch?v=t4Y7jd4h-T8&list=PLKDz-NhpsH8rqDkkLWM1Qevy-SModK_Cg&index=1">JSON JavaScript 1 - Hoheckell Filho</a></li>
+                    <li><a target="_blank" href="https://www.youtube.com/watch?v=s8tEFlxPGTs&list=PLKDz-NhpsH8rqDkkLWM1Qevy-SModK_Cg&index=3&t=0s">JSON JavaScript 2 - Hoheckell Filho</a></li>
+                </ul>
+            </ul>
             <li>Angular</li>
             <li>Django</li>            
             <li>React</li>
@@ -91,21 +106,6 @@ Então bora por a mão na massa.... e bons estudos.
             <li>Versionamento</li>
             <ul>
                 <li><a target="_blank" href="https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1">Introdução a Git - Rodrigo Branas</a></li>
-            </ul>
-            <li>JavaScript</li>
-            <ul>
-                <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1">Curso em Vídeo</a></li>
-                <li><a target="_blank" href="https://www.youtube.com/watch?v=lcKo-ycLDNw&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC">CFBCursos</a></li>
-                <li><a target="_blank" href="https://www.youtube.com/watch?v=093dIOCNeIc&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc">Desvendando a linguagem JavaScript - Rodrigo Branas</a></li>
-                <li><a target="_blank" href="https://www.youtube.com/watch?v=mchmZKNBjLA">Javascript Essential - DOM (Duas partes) - RBtech</a></li>
-                <li><a target="_blank" href="https://www.youtube.com/watch?v=Q2gMUK8uxjQ&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=80">Criando um jogo de nave com Javascript - CFBCursos</a></li>
-                <li><a target="_blank" href="https://www.youtube.com/watch?v=Mus_vwhTCq0">JavaScript Pro Tips - Fireship</a></li>
-                <li><a target="_blank" href="https://www.udemy.com/course/curso-web/">Curso Web Moderno com JavaScript 2019 COMPLETO + Projetos - Udemy</a></li>
-                <li>JSON</li>
-                <ul>
-                    <li><a target="_blank" href="https://www.youtube.com/watch?v=t4Y7jd4h-T8&list=PLKDz-NhpsH8rqDkkLWM1Qevy-SModK_Cg&index=1">JSON JavaScript 1 - Hoheckell Filho</a></li>
-                    <li><a target="_blank" href="https://www.youtube.com/watch?v=s8tEFlxPGTs&list=PLKDz-NhpsH8rqDkkLWM1Qevy-SModK_Cg&index=3&t=0s">JSON JavaScript 2 - Hoheckell Filho</a></li>
-                </ul>
             </ul>
         </ul>
         <li><h4>Backendend</h4></li>
