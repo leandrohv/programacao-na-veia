@@ -92,10 +92,6 @@ Então bora por a mão na massa.... e bons estudos.
             <ul>
                 <li><a target="_blank" href="https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1">Introdução a Git - Rodrigo Branas</a></li>
             </ul>
-        </ul>
-        <li><h4>Backendend</h4></li>
-        <ul>
-            <li><a target="_blank" href="https://github.com/leandrohv/programacao-na-veia/tree/master/java">Java</a></li>
             <li>JavaScript</li>
             <ul>
                 <li><a target="_blank" href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1">Curso em Vídeo</a></li>
@@ -111,6 +107,10 @@ Então bora por a mão na massa.... e bons estudos.
                     <li><a target="_blank" href="https://www.youtube.com/watch?v=s8tEFlxPGTs&list=PLKDz-NhpsH8rqDkkLWM1Qevy-SModK_Cg&index=3&t=0s">JSON JavaScript 2 - Hoheckell Filho</a></li>
                 </ul>
             </ul>
+        </ul>
+        <li><h4>Backendend</h4></li>
+        <ul>
+            <li><a target="_blank" href="https://github.com/leandrohv/programacao-na-veia/tree/master/java">Java</a></li>
             <li>Clean Code</li>
             <ul>
                 <li><a target="_blank" href="https://www.youtube.com/watch?v=pepkomxYcaY&list=PLQCmSnNFVYnSpfpwwQGO8QHQ3CcizaZsV&index=1">Qualidade de Código - Rodrigo Branas</a></li>
