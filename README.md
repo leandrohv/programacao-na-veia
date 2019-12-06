@@ -6,7 +6,6 @@ Os cursos estão separados por branch's específicas conforme cada linguagem ou 
 
 Então bora por a mão na massa, e bons estudos.
 
-<hr/>
 <h1>Lista conteúdos que você irá encontrar nesse repositório.</h1>
 
 <ul>
