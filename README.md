@@ -1,12 +1,10 @@
 <h1>Programação na veia</h1>
 
-<h2>Olá Dev!!!</h2>
-
 Através desse repositório você terá a possibilidade de alcançar conhecimentos básicos até o nível avançado, para se tornar um ótimo desenvolvedor.
 
 Os cursos estão separados por branch's específicas conforme cada linguagem ou tecnologia que você gostaria de aprender.
 
-Então bora por a mão na massa.... e bons estudos.
+Então bora por a mão na massa, e bons estudos.
 
 <hr/>
 <h1>Lista conteúdos que você irá encontrar nesse repositório.</h1>
